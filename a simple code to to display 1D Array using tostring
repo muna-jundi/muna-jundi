@@ -1,0 +1,12 @@
+//import arrays from the library
+import java.util.Arrays;
+//define a class named arrayex
+public class arrayex{
+// main methode
+public static void main (String args[]){
+//declaration of array names members
+int[] members={10,20,30,40,50};
+// output the contents of the array using tostring
+System.out.println(Arrays.toString(members)+" ");
+} // end of the main method
+} // end of class
